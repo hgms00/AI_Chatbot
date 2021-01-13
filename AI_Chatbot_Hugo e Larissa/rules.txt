@@ -1,0 +1,40 @@
+A <=> A
+a => B
+b => C
+c => D
+d => E
+e => F
+f => G
+g => H
+h => I
+i => J
+j => K
+k => L
+l => M
+u => N
+!u => O
+a + d + m => P
+a + d + !m => Q
+a + e + n => R
+a + e + o => S
+a + e + p => T
+a + f + q => U
+a + f + !q => V
+b + g + r => W
+b + g + !r => X
+b + h + s => Y
+b + h + !s => Z
+b + i + t => 0
+b + i + !t => 1
+c + j + u + x => 2
+c + j + u + !x => 3
+c + j + !u + y => 4
+c + j + !u + !y => 5
+c + k + v => 6
+c + k + !v => 7
+c + l + w => 8
+c + l + !w => 9 
+
+=A
+
+?PQRSTUVWXYZ0123456789

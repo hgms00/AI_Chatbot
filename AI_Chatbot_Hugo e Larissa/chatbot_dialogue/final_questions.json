@@ -1,0 +1,61 @@
+ {
+     "A": {   
+        "question": "Como você pretende viajar? \n\t\t 1: Sozinho \n\t\t 2: Casal \n\t\t 3: Família \n"
+     },
+
+     "B": {
+        "question": "Qual seu principal objetivo na sua viagem? \n\t\t 1: Visitar um lugar com abundância de pontos turísticos \n\t\t 2: Aprender um novo idioma e conhecer novas pessoas \n\t\t 3: Visitar pontos de entretiremento e compra \n"
+     },
+
+     "C": {
+        "question": "O que você busca fazer com seu parceiro? \n\t\t 1: Ir para lugares românticos \n\t\t 2: Se divertir juntos \n\t\t 3: Experimentar das variedades da gastronomia \n"
+     },
+
+     "D": {
+        "question": "O que você quer fazer em família na sua viagem? \n\t\t 1: Diversão em família \n\t\t 2: Descanso em família \n\t\t 3: Unir os laços familiares \n"
+     },
+
+     "E": {
+        "question": "Qual o tipo de ponto turístico que você prefere visitar \n\t\t 1: Pontos turísticos naturais \n\t\t 2: Construções históricas \n"
+     },
+
+     "F": {
+        "question": "Dentre as línguas listadas, qual você mais gostaria de praticar? \n\t\t 1: Inglês \n\t\t 2: Francês \n\t\t 3: Espanhol \n"
+     },
+
+     "G": {
+        "question": "Você prefere visitar playgrounds ou se divertir tentando a sorte em jogos de azar? \n\t\t 1: Playgrounds \n\t\t 2: Jogos de Azar \n"
+     },
+
+     "H": {
+        "question": "Vocês preferem um lugar com um clima frio? \n\t\t 1: Sim \n\t\t 2: Não \n"
+     },
+
+     "I": {
+        "question": "Vocês buscam aventuras inesquecíveis ou a diversão de um parque temático com um ar romântico? \n\t\t 1: Aventuras \n\t\t 2: Parques temáticos \n"
+     },
+
+     "J": {
+         "question": "Você prefere lugares onde você possa comer bastante massa? \n\t\t 1: Sim \n\t\t 2: Não \n"
+     },
+
+     "K": {
+         "question": "'Você quer fazer esportes radicais com sua família? \n\t\t 1: Sim \n\t\t 2: Não \n"
+     },
+
+     "L": {
+         "question": "Vocês preferem ficar em contato com a natureza ou em um SPA? \n\t\t 1: Natureza \n\t\t 2: SPA \n"
+     },
+
+     "M": {
+        "question": "Você prefere acampar ou participar de exposições como um zoológico? \n\t\t 1: Acampar \n\t\t 2: Exposições \n"
+     },
+
+     "N": {
+        "question": "Vocês buscam um lugar de clima quente ou frio? \n\t\t 1: Frio \n\t\t 2: Calor \n"
+     },
+
+     "O": {
+         "question": "Se refrescar em um parque aquático ou aproveitar das maravilhas de um parque temático? \n\t\t 1: Temático \n\t\t 2: Aquático \n"
+     }
+}

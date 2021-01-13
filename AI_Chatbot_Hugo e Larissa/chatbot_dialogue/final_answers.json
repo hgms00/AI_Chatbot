@@ -1,0 +1,87 @@
+ {
+     "P": {
+         "name" : "Pacote Individual Austrália",
+         "description": "A Austrália é um dos destinos mais buscados pelos turistas que desejam explorar belezas naturais.\nCom paisagens muito diversas, que vão de praias paradisíacas como Surfers Paradise, o paraíso dos surfistas, a vales nevados, como Blue Mountains, perfeita para quem busca passeios e esportes na neve, como o esqui e o snowboard"
+     },
+     "Q": {
+        "name": "Pacote Individual Peru",
+        "description": "O Peru é um país que detêm enorme biodiversidade e população multiétnica, em um território que abrigou a civilização de Caral, uma das mais antigas do mundo, além do Império Inca, de modo a oferecer aos seus visitantes uma quantidade enorme de experiências culturais.\nEntre seus destinos, estão, Machu Picchu uma das 7 maravilhas do mundo e o Templo do Sol obra da arquitetura Inca"
+     },
+     "R": {
+         "name": "Pacote Individual Inglaterra",
+         "description": "A Austrália é um dos destinos mais buscados pelos turistas que desejam explorar belezas naturais.\nCom paisagens muito diversas, que vão de praias paradisíacas como Surfers Paradise, o paraíso dos surfistas, a vales nevados, como Blue Mountains, perfeita para quem busca passeios e esportes na neve, como o esqui e o snowboard."
+     },
+     "S": {
+        "name": "Pacote Individual França",
+        "description": "Porque não estudar Francês diretamente na França não é mesmo?! Ainda pode visitar diversas atrações incríveis!"
+     },
+     "T": {
+         "name": "Pacote Individual Espanha",
+         "description": "O melhor país para estudar espanhol é justamente o berço da língua não é mesmo?!"
+     },
+
+     "U": {
+        "name": "Pacote Individual Áustria - Swarovski Kristallwelten",
+        "description": "O parque Swarovski Kristallwelten além de ser um belo cartão de visita tem uma área conhecida como Torre dos Jogos.\nÉ um playground dentro de um prédio de vidro.\nLá dentro, há paredes de escalada, balanços e escorregadores com uma vista linda de fora para dentro e de dentro para fora."
+     },
+     "V": {
+         "name": "Pacote Individual EUA - Las Vegas",
+         "description": "Em Las Vegas, se diverte mais quem se entrega de corpo, alma e dólares a essa experiência bizarra de supressão da realidade."
+     },
+     "W": {
+        "name": "Pacote Casal Argentina - Bariloche",
+        "description": "A simpática Bariloche uma cidade bem diferente com o passar das estações, seu cenário natural muda dependendo da época do ano em que a viagem é realizada, mas é certo que independentemente da época em que viajar, você encontrará paisagens encantadoras, com direito a montanhas arborizadas, lagos de cores lindas, atividades na natureza e boa gastronomia."
+     },
+     "X": {
+        "name": "Pacote Casal Ilhas Maldivas",
+        "description": "As Ilhas Maldivas tem sua fama pelas praias de areia branca e águas cristalinas.\nDestinação perfeita para casais que podem se hospedar nos famosos bangalôs, e desfrutar de atividades empolgantes como mergulhos e reconfortantes como observar um lindo por do sol e golfinhos por perto."
+     },
+     "Y": {
+         "name": "Pacote Casal Turquia - Capadócia",
+         "description": "Capadócia na Turquia promove atrações de tirar o folego como conhecer a cidade subterrânea kaymakli e fazer os famosos passeio de balão enquanto brinda com seu parceiro ótimos champanhes.\nPara desfrutar ainda mais um tempo em casal hospede-se no Argos, hotel situado dentro da caverna.\nVocê ainda pode fazer os famosos passeios de balão, e aproveitar a bela vista que a cidade proporciona."
+     },
+     "Z": {
+         "name": "Pacote Casal Dinamarca - Copenhague",
+         "description": "Copenhague uma cidade envolvente, de arquitetura encantadora, repleta de castelos, palácios e parques.\nLugar da famosa estátua da Pequena Sereia que representa o personagem de um dos contos infantis do escritor Hans Christian Andersen.\nE claro, sua viagem ganha vida ao visitar os Jardins de Tivoli segundo parque de diversões mais antigo em funcionamento no mundo."
+     },
+     "0": {
+         "name": "Pacote Casal Itália - Veneza",
+         "description": "Não é a toa que Veneza é conhecida como a cidade mais romantica do mundo, ela oferece pontos que merecem ser explorados, onde a história se mistura a cenários que arrancam suspiros e nos fazem sonhar.\nAlém do estimado passeio de gôndola a gastronomia é uma deliciosa atração, entre os pratos típicos se encontram Fegato alla veneziana e Nero di seppia com spaghetti ou polenta."
+     },
+     "1": {
+        "name": "Pacote Casal França - Paris" ,
+        "description": "Paris transpira romance em cada esquina: desde as luzes piscantes da Torre Eiffel até o pôr do sol cor de rosa. Casais podem se apaixonar novamente a um passeio de barco pelo rio Sena ou à um piquenique na Place des Vosges.\nE claro, se deliciar com doces e salgados típicos ou um aconchegante jantar em um restaurante cobiçado."
+     },
+     "2": {
+        "name": "Pacote Família Canadá",
+        "description": "Não tem nada mais divertido do que se aventurar nas estações de esqui do Canadá durante o inverno.\nAs paisagens são lindas e são várias opções de passeios para todas as idades. Localizada na província de Laberta, mais ao centro do país, a cidade de Banff é muito procurada por fãs de esportes radicais na neve. Por lá, também é possível realizar o rafting — esporte em grupo no qual os participantes descem e remam por quedas d’água em um bote."
+     },
+     "3": {
+         "name": "Pacote Família Inglaterra",
+         "description": "Com início em 21 de junho, o verão na Inglaterra se estende até cerca de 21 de setembro, e é uma época em que Londres fica radiante.\nEntre as atrações está o Rooftop Film Club, um grande espaço aberto, cadeiras e cobertores espalhados pela área, pessoas felizes olhando para uma enorme tela à frente de todos e o festival The Beach Brent Cross que é nada mais nada menos do que uma praia urbana móvel, que é também um parque de diversões montada na metrópole durante o verão."
+     },
+     "4": {
+         "name": "Pacote Família EUA - Disney",
+         "description": "Tem medo de montanha-russa?\nNão tem problema, a Disney é um complexo pensado para famílias aproveitarem juntas, então boa parte das atrações são bem tranquilas. Muitos destinos de viagem são um pouco impeditivos quando se viaja com crianças, mas a Disney não é um deles.\nOs pequenos se divertem muito com os personagens, com as atrações, e só de estar no lugar que eles sempre sonharam, já vale a pena!"
+     },
+     "5": {
+         "name": "Pacote Família Dubai - Emirados Arabes - Aquaventure Waterpark",
+         "description": "Parte do complexo do hotel Atlantis de Palm, na Palm Jumeirah, o Aquaventure Waterpark é um delicioso refresco para o clima quente de Dubai.\nO parque aquático, localizado à beira do Golfo Pérsico, oferece vários toboáguas, piscinas e, claro, uma praia particular.\nNada mau para um dia de intenso calor.\nOs toboáguas agradam a quem busca aventuras mais radicais, mas existem diversas opções também para você passar deliciosos momentos sem nenhum esforço.\nPerfeito para grupos de disversar idades."
+     },
+     "6": {
+         "name": "Pacote Família Filipinas",
+         "description": "De praias desertas a shoppings lotados, há sempre algo para se fazer nas Filipinas, experiências novas a serem descobertas e uma ilha paradisíaca para chamar de sua.\nQue tal mergulhar junto a navios naufragados da Segunda Guerra, lagoas de água cristalinas e mirantes com vistas que parecem ter sido feitas por computação gráfica? De natureza à história, vá fundo nos legados culturais deixados pela colonização espanhola, que influencia no idioma, religião e até na comida!"
+     },
+     "7": {
+         "name": "Pacote Família Estados Unidos",
+         "description": "Conhecida mundialmente por suas estações de esqui, Park City Mountain Resort e Deer Valley Resort, a cidade de Park City, destino de montanha de melhor acesso na América do Norte possui alguns dos principais de SPAS de luxo dos EUA.\nLocalizado a apenas 35 minutos do aeroporto internacional de Salt Lake City, em Utah, conta com uma série de SPA"
+     },
+     "8": {
+         "name": "Pacote Família Chile - Torres del Paine",
+         "description": "Então, se você faz parte do grupo de pessoas que viaja com o objetivo de acampar, há espaços delimitados para isso no Parque Nacional Torres del Paine. Nas áreas de camping, há uma infraestrutura básica com banheiros e água potável. Embora o Parque Nacional de Torres del Paine fique aberto durante todo o ano, é mais recomendado visitá-lo na primavera (outubro a dezembro) ou no verão (janeiro a março).\nAlém do clima estar mais ameno, nesse período os dias chegam a ter 16 horas de luz, sol e menos chances de chuva."
+     },
+     "9": {
+         "name": "Pacote Família Alemanha - Jardim Zoológico de Berlim",
+         "description" : "Uma das cidades mais apaixonantes da Alemanha não é um destino apenas para amantes de museus, de modernidades, de boa gastronomia e de ares cosmopolitas. Ela também é um lugar excelente para quem viaja com a família inteira e também para quem gosta de passeios ao ar livre. o Jardim Zoológico de Berlim é o zoo mais antigo da Alemanha Esse sucesso acontece por vários motivos, ele tem mais de 25 mil animais de duas mil espécies e o maior aquário público do mundo."
+     }
+}
